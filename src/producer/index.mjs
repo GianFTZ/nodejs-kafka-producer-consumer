@@ -1,4 +1,4 @@
-import { kafka } from "../connection";
+import { kafka } from "../connection/index.mjs";
 
 const producer = kafka.producer()
 
