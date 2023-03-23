@@ -2,5 +2,8 @@
   "name": "kellner",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "kafkajs": "^2.2.4"
+  }
 }
