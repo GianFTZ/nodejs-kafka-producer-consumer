@@ -2,6 +2,7 @@
   "name": "kellner",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "license": "MIT",
   "devDependencies": {
     "kafkajs": "^2.2.4"
